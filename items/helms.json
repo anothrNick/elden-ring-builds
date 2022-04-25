@@ -1,0 +1,475 @@
+{
+  "items": [
+    {
+      "name": "Alberich's Pointed Hat"
+    },
+    {
+      "name": "Ash-of-War Scarab"
+    },
+    {
+      "name": "Black Knife Hood"
+    },
+    {
+      "name": "Incantation Scarab"
+    },
+    {
+      "name": "Lazuli Glintstone Crown"
+    },
+    {
+      "name": "Lusat's Glintstone Crown"
+    },
+    {
+      "name": "Spellblade's Pointed Hat"
+    },
+    {
+      "name": "White Mask"
+    },
+    {
+      "name": "Glintstone Scarab"
+    },
+    {
+      "name": "Mushroom Crown"
+    },
+    {
+      "name": "Snow Witch Hat"
+    },
+    {
+      "name": "Twinsage Glintstone Crown"
+    },
+    {
+      "name": "Azur's Glintstone Crown"
+    },
+    {
+      "name": "Crucible Axe Helm"
+    },
+    {
+      "name": "Crucible Tree Helm"
+    },
+    {
+      "name": "Fire Prelate Helm"
+    },
+    {
+      "name": "Lionel's Helm"
+    },
+    {
+      "name": "Omen Helm"
+    },
+    {
+      "name": "Radahn's Redmane Helm"
+    },
+    {
+      "name": "Royal Remains Helm"
+    },
+    {
+      "name": "Ruler's Mask"
+    },
+    {
+      "name": "Scaled Helm"
+    },
+    {
+      "name": "Tree Sentinel Helm"
+    },
+    {
+      "name": "Veteran's Helm"
+    },
+    {
+      "name": "Witch's Glintstone Crown"
+    },
+    {
+      "name": "Banished Knight Helm"
+    },
+    {
+      "name": "Beast Champion Helm"
+    },
+    {
+      "name": "Land of Reeds Helm"
+    },
+    {
+      "name": "Malformed Dragon Helm"
+    },
+    {
+      "name": "Mushroom Head"
+    },
+    {
+      "name": "Pumpkin Helm"
+    },
+    {
+      "name": "Silver Tear Mask"
+    },
+    {
+      "name": "Albinauric Mask"
+    },
+    {
+      "name": "Black Wolf Mask"
+    },
+    {
+      "name": "Blackflame Monk Hood"
+    },
+    {
+      "name": "Blackguard's Iron Mask"
+    },
+    {
+      "name": "Blue Silver Mail Hood"
+    },
+    {
+      "name": "Brave's Leather Helm"
+    },
+    {
+      "name": "Bull-Goat Helm"
+    },
+    {
+      "name": "Chain Coif"
+    },
+    {
+      "name": "Cleanrot Helm"
+    },
+    {
+      "name": "Drake Knight Helm"
+    },
+    {
+      "name": "Duelist Helm"
+    },
+    {
+      "name": "Eccentric's Hood"
+    },
+    {
+      "name": "Exile Hood"
+    },
+    {
+      "name": "Fire Monk Hood"
+    },
+    {
+      "name": "Godrick Soldier Helm"
+    },
+    {
+      "name": "Greathelm"
+    },
+    {
+      "name": "Haligtree Helm"
+    },
+    {
+      "name": "Hoslow's Helm"
+    },
+    {
+      "name": "Imp Head Corpse"
+    },
+    {
+      "name": "Imp Head Fanged"
+    },
+    {
+      "name": "Imp Head Long-Tongued"
+    },
+    {
+      "name": "Imp Head Wolf"
+    },
+    {
+      "name": "Iron Helmet"
+    },
+    {
+      "name": "Leyndell Soldier Helm"
+    },
+    {
+      "name": "Malenia's Winged Helm"
+    },
+    {
+      "name": "Marionette Soldier Birdhelm"
+    },
+    {
+      "name": "Marionette Soldier Helm"
+    },
+    {
+      "name": "Night's Cavalry Helm"
+    },
+    {
+      "name": "Prisoner Iron Mask"
+    },
+    {
+      "name": "Radahn Soldier Helm"
+    },
+    {
+      "name": "Redmane Knight Helm"
+    },
+    {
+      "name": "Rotten Duelist Helm"
+    },
+    {
+      "name": "Royal Knight Helm"
+    },
+    {
+      "name": "Vagabond Knight Helm"
+    },
+    {
+      "name": "Zamor Mask"
+    },
+    {
+      "name": "Cerulean Tear Scarab"
+    },
+    {
+      "name": "Imp Head Cat"
+    },
+    {
+      "name": "Imp Head Elder"
+    },
+    {
+      "name": "Jar"
+    },
+    {
+      "name": "Kaiden Helm"
+    },
+    {
+      "name": "Raya Lucarian Helm"
+    },
+    {
+      "name": "Aristocrat Hat"
+    },
+    {
+      "name": "Crimson Hood"
+    },
+    {
+      "name": "Navy Hood"
+    },
+    {
+      "name": "Omensmirk Mask"
+    },
+    {
+      "name": "Ragged Hat"
+    },
+    {
+      "name": "Sage Hood"
+    },
+    {
+      "name": "All-Knowing Helm"
+    },
+    {
+      "name": "Briar Helm"
+    },
+    {
+      "name": "Cuckoo Knight Helm"
+    },
+    {
+      "name": "Diallos's Mask"
+    },
+    {
+      "name": "Elden Lord Crown"
+    },
+    {
+      "name": "Fingerprint Helm"
+    },
+    {
+      "name": "Foot Soldier Helm"
+    },
+    {
+      "name": "Foot Soldier Helmet"
+    },
+    {
+      "name": "Gilded Foot Soldier Cap"
+    },
+    {
+      "name": "Guardian Mask"
+    },
+    {
+      "name": "Haligtree Knight Helm"
+    },
+    {
+      "name": "Iron Kasa"
+    },
+    {
+      "name": "Leyndell Knight Helm"
+    },
+    {
+      "name": "Maliketh's Helm"
+    },
+    {
+      "name": "Octopus Head"
+    },
+    {
+      "name": "Okina Mask"
+    },
+    {
+      "name": "Raging Wolf Helm"
+    },
+    {
+      "name": "Sacred Crown Helm"
+    },
+    {
+      "name": "Twinned Helm"
+    },
+    {
+      "name": "Vulgar Militia Helm"
+    },
+    {
+      "name": "Bloodhound Knight Helm"
+    },
+    {
+      "name": "Carian Knight Helm"
+    },
+    {
+      "name": "Foot Soldier Cap"
+    },
+    {
+      "name": "Gelmir Knight Helm"
+    },
+    {
+      "name": "Godrick Knight Helm"
+    },
+    {
+      "name": "Karolos Glintstone Crown"
+    },
+    {
+      "name": "Knight Helm"
+    },
+    {
+      "name": "Nox Mirrorhelm"
+    },
+    {
+      "name": "Olivinus Glintstone Crown"
+    },
+    {
+      "name": "Bandit Mask"
+    },
+    {
+      "name": "Black Dumpling"
+    },
+    {
+      "name": "Blue Cloth Cowl"
+    },
+    {
+      "name": "Confessor Hood"
+    },
+    {
+      "name": "Consort's Mask"
+    },
+    {
+      "name": "Crimson Tear Scarab"
+    },
+    {
+      "name": "Depraved Perfumer Headscarf"
+    },
+    {
+      "name": "Envoy Crown"
+    },
+    {
+      "name": "Godskin Apostle Hood"
+    },
+    {
+      "name": "Great Horned Headband"
+    },
+    {
+      "name": "Greathood"
+    },
+    {
+      "name": "Haima Glintstone Crown"
+    },
+    {
+      "name": "Iji's Mirrorhelm"
+    },
+    {
+      "name": "Marais Mask"
+    },
+    {
+      "name": "Mask of Confidence"
+    },
+    {
+      "name": "Night Maiden Twin Crown"
+    },
+    {
+      "name": "Nomadic Merchant's Chapeau"
+    },
+    {
+      "name": "Nox Monk Hood"
+    },
+    {
+      "name": "Nox Swordstress Crown"
+    },
+    {
+      "name": "Old Aristocrat Cowl"
+    },
+    {
+      "name": "Queen's Crescent Crown"
+    },
+    {
+      "name": "Radiant Gold Mask"
+    },
+    {
+      "name": "Shining Horned Headband"
+    },
+    {
+      "name": "Black Hood"
+    },
+    {
+      "name": "Champion Headband"
+    },
+    {
+      "name": "Finger Maiden Fillet"
+    },
+    {
+      "name": "Hierodas Glintstone Crown"
+    },
+    {
+      "name": "Highwayman Hood"
+    },
+    {
+      "name": "Preceptor's Big Hat"
+    },
+    {
+      "name": "Skeletal Mask"
+    },
+    {
+      "name": "Aristocrat Headband"
+    },
+    {
+      "name": "Astrologer Hood"
+    },
+    {
+      "name": "Bloodsoaked Mask"
+    },
+    {
+      "name": "Blue Festive Hood"
+    },
+    {
+      "name": "Brave's Cord Circlet"
+    },
+    {
+      "name": "Commoner's Headband"
+    },
+    {
+      "name": "Festive Hood"
+    },
+    {
+      "name": "Fia's Hood"
+    },
+    {
+      "name": "Godskin Noble Hood"
+    },
+    {
+      "name": "Grass Hair Ornament"
+    },
+    {
+      "name": "Guilty Hood"
+    },
+    {
+      "name": "High Page Hood"
+    },
+    {
+      "name": "Juvenile Scholar Cap"
+    },
+    {
+      "name": "Perfumer Hood"
+    },
+    {
+      "name": "Prophet Blindfold"
+    },
+    {
+      "name": "Sanguine Noble Hood"
+    },
+    {
+      "name": "Traveling Maiden Hood"
+    },
+    {
+      "name": "Page Hood"
+    },
+    {
+      "name": "Traveler's Hat"
+    }
+  ]
+}

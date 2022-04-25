@@ -1,0 +1,412 @@
+{
+  "items": [
+    {
+      "name": "Radahn's Lion Armor"
+    },
+    {
+      "name": "Alberich's Robe"
+    },
+    {
+      "name": "Azur's Glintstone Robe"
+    },
+    {
+      "name": "Blackflame Monk Armor"
+    },
+    {
+      "name": "Crucible Axe Armor"
+    },
+    {
+      "name": "Crucible Tree Armor"
+    },
+    {
+      "name": "Cuckoo Knight Armor"
+    },
+    {
+      "name": "Deathbed Dress"
+    },
+    {
+      "name": "Fingerprint Armor"
+    },
+    {
+      "name": "Fire Monk Armor"
+    },
+    {
+      "name": "Fire Prelate Armor"
+    },
+    {
+      "name": "Haligtree Knight Armor"
+    },
+    {
+      "name": "Hoslow's Armor"
+    },
+    {
+      "name": "Leyndell Knight Armor"
+    },
+    {
+      "name": "Lionel's Armor"
+    },
+    {
+      "name": "Mausoleum Knight Armor"
+    },
+    {
+      "name": "Omen Armor"
+    },
+    {
+      "name": "Raging Wolf Armor"
+    },
+    {
+      "name": "Raptors Black Feathers"
+    },
+    {
+      "name": "Redmane Knight Armor"
+    },
+    {
+      "name": "Redmane Surcoat"
+    },
+    {
+      "name": "Royal Knight Armor"
+    },
+    {
+      "name": "Scaled Armor"
+    },
+    {
+      "name": "Spellblade's Traveling Attire"
+    },
+    {
+      "name": "Tree Sentinel Armor"
+    },
+    {
+      "name": "Vagabond Knight Armor"
+    },
+    {
+      "name": "Veteran's Armor"
+    },
+    {
+      "name": "White Reed Armor"
+    },
+    {
+      "name": "Banished Knight Armor"
+    },
+    {
+      "name": "Beast Champion Armor"
+    },
+    {
+      "name": "Gelmir Knight Armor"
+    },
+    {
+      "name": "Godrick Knight Armor"
+    },
+    {
+      "name": "Malformed Dragon Armor"
+    },
+    {
+      "name": "Mushroom Body"
+    },
+    {
+      "name": "Snow Witch Robe"
+    },
+    {
+      "name": "All-Knowing Armor"
+    },
+    {
+      "name": "Black Knife Armor"
+    },
+    {
+      "name": "Blaidd's Armor"
+    },
+    {
+      "name": "Blue Silver Mail Armor"
+    },
+    {
+      "name": "Briar Armor"
+    },
+    {
+      "name": "Bull-Goat Armor"
+    },
+    {
+      "name": "Chain Armor"
+    },
+    {
+      "name": "Cleanrot Armor"
+    },
+    {
+      "name": "Cuckoo Surcoat"
+    },
+    {
+      "name": "Dirty Chainmail"
+    },
+    {
+      "name": "Drake Knight Armor"
+    },
+    {
+      "name": "Eccentric's Armor"
+    },
+    {
+      "name": "Elden Lord Armor"
+    },
+    {
+      "name": "Erdtree Surcoat"
+    },
+    {
+      "name": "Exile Armor"
+    },
+    {
+      "name": "Eye Surcoat"
+    },
+    {
+      "name": "Haligtree Crest Surcoat"
+    },
+    {
+      "name": "Kaiden Armor"
+    },
+    {
+      "name": "Maliketh's Armor"
+    },
+    {
+      "name": "Marionette Soldier Armor"
+    },
+    {
+      "name": "Mausoleum Surcoat"
+    },
+    {
+      "name": "Night's Cavalry Armor"
+    },
+    {
+      "name": "Royal Remains Armor"
+    },
+    {
+      "name": "Scale Armor"
+    },
+    {
+      "name": "Tree Surcoat"
+    },
+    {
+      "name": "Tree-and-Beast Surcoat"
+    },
+    {
+      "name": "Twinned Armor"
+    },
+    {
+      "name": "Zamor Armor"
+    },
+    {
+      "name": "Bloodhound Knight Armor"
+    },
+    {
+      "name": "Carian Knight Armor"
+    },
+    {
+      "name": "Knight Armor"
+    },
+    {
+      "name": "Land of Reeds Armor"
+    },
+    {
+      "name": "Malenia's Armor"
+    },
+    {
+      "name": "Ronin's Armor"
+    },
+    {
+      "name": "Scarlet Tabard"
+    },
+    {
+      "name": "Aristocrat Coat"
+    },
+    {
+      "name": "Aristocrat Garb"
+    },
+    {
+      "name": "Bandit Garb"
+    },
+    {
+      "name": "Bloodsoaked Tabard"
+    },
+    {
+      "name": "Blue Cloth Vest"
+    },
+    {
+      "name": "Confessor Armor"
+    },
+    {
+      "name": "Foot Soldier Tabard"
+    },
+    {
+      "name": "Guardian Garb"
+    },
+    {
+      "name": "Highwayman Cloth Armor"
+    },
+    {
+      "name": "Ivory-Draped Tabard"
+    },
+    {
+      "name": "Leather Armor"
+    },
+    {
+      "name": "Leather-Draped Tabard"
+    },
+    {
+      "name": "Lusat's Robe"
+    },
+    {
+      "name": "Night Maiden Armor"
+    },
+    {
+      "name": "Nomadic Merchant's Finery"
+    },
+    {
+      "name": "Nox Monk Armor"
+    },
+    {
+      "name": "Old Aristocrat Gown"
+    },
+    {
+      "name": "Omenkiller Robe"
+    },
+    {
+      "name": "Ragged Armor"
+    },
+    {
+      "name": "Vulgar Militia Armor"
+    },
+    {
+      "name": "War Surgeon Gown"
+    },
+    {
+      "name": "Chain-Draped Tabard"
+    },
+    {
+      "name": "Gravekeeper Cloak"
+    },
+    {
+      "name": "Nox Swordstress Armor"
+    },
+    {
+      "name": "Astrologer Robe"
+    },
+    {
+      "name": "Battlemage Robe"
+    },
+    {
+      "name": "Commoner's Garb"
+    },
+    {
+      "name": "Consort's Robe"
+    },
+    {
+      "name": "Corhyn's Robe"
+    },
+    {
+      "name": "Depraved Perfumer Robe"
+    },
+    {
+      "name": "Fell Omen Cloak"
+    },
+    {
+      "name": "Fia's Robe"
+    },
+    {
+      "name": "Fur Raiment"
+    },
+    {
+      "name": "Godskin Apostle Robe"
+    },
+    {
+      "name": "Godskin Noble Robe"
+    },
+    {
+      "name": "High Page Clothes"
+    },
+    {
+      "name": "Juvenile Scholar Robe"
+    },
+    {
+      "name": "Lazuli Robe"
+    },
+    {
+      "name": "Marais Robe"
+    },
+    {
+      "name": "Noble's Traveling Garb"
+    },
+    {
+      "name": "Page Garb"
+    },
+    {
+      "name": "Perfumer Robe"
+    },
+    {
+      "name": "Prophet Robe"
+    },
+    {
+      "name": "Queen's Robe"
+    },
+    {
+      "name": "Raya Lucarian Robe"
+    },
+    {
+      "name": "Sanguine Noble Robe"
+    },
+    {
+      "name": "Shaman Furs"
+    },
+    {
+      "name": "Travelers Clothes"
+    },
+    {
+      "name": "Traveling Maiden Robe"
+    },
+    {
+      "name": "Champion Pauldron"
+    },
+    {
+      "name": "Cloth Garb"
+    },
+    {
+      "name": "Finger Maiden Robe"
+    },
+    {
+      "name": "Perfumer's Traveling Garb"
+    },
+    {
+      "name": "Preceptor's Long Gown"
+    },
+    {
+      "name": "Rotten Gravekeeper Cloak"
+    },
+    {
+      "name": "Sage Robe"
+    },
+    {
+      "name": "Blue Festive Garb"
+    },
+    {
+      "name": "Errant Sorcerer Robe"
+    },
+    {
+      "name": "Festive Garb"
+    },
+    {
+      "name": "Goldmask's Rags"
+    },
+    {
+      "name": "Guardian Armor"
+    },
+    {
+      "name": "Official's Attire"
+    },
+    {
+      "name": "Prisoner Clothing"
+    },
+    {
+      "name": "Ruler's Robe"
+    },
+    {
+      "name": "Upper-Class Robe"
+    },
+    {
+      "name": "Commoner's Simple Garb"
+    }
+  ]
+}

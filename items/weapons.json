@@ -1,0 +1,757 @@
+{
+  "items": [
+    {
+      "name": "Battle Axe"
+    },
+    {
+      "name": "Forked Hatchet"
+    },
+    {
+      "name": "Hand Axe"
+    },
+    {
+      "name": "Jawbone Axe"
+    },
+    {
+      "name": "Iron Cleaver"
+    },
+    {
+      "name": "Ripple Blade"
+    },
+    {
+      "name": "Celebrant's Cleaver"
+    },
+    {
+      "name": "Icerind Hatchet"
+    },
+    {
+      "name": "Highland Axe"
+    },
+    {
+      "name": "Sacrificial Axe"
+    },
+    {
+      "name": "Rosus' Axe"
+    },
+    {
+      "name": "Stormhawk Axe"
+    },
+    {
+      "name": "Warped Axe"
+    },
+    {
+      "name": "Hookclaws"
+    },
+    {
+      "name": "Venomous Fang"
+    },
+    {
+      "name": "Bloodhound Claws"
+    },
+    {
+      "name": "Raptor Talons"
+    },
+    {
+      "name": "Greatsword"
+    },
+    {
+      "name": "Watchdog's Greatsword"
+    },
+    {
+      "name": "Maliketh's Black Blade"
+    },
+    {
+      "name": "Troll's Golden Sword"
+    },
+    {
+      "name": "Zweihander"
+    },
+    {
+      "name": "Starscourge Greatsword"
+    },
+    {
+      "name": "Royal Greatsword"
+    },
+    {
+      "name": "Godslayer's Greatsword"
+    },
+    {
+      "name": "Ruins Greatsword"
+    },
+    {
+      "name": "Grafted Blade Greatsword"
+    },
+    {
+      "name": "Troll Knight's Sword"
+    },
+    {
+      "name": "Prelate's Inferno Crozier"
+    },
+    {
+      "name": "Watchdog's Staff"
+    },
+    {
+      "name": "Great Club"
+    },
+    {
+      "name": "Envoy's Greathorn"
+    },
+    {
+      "name": "Duelist Greataxe"
+    },
+    {
+      "name": "Axe of Godfrey"
+    },
+    {
+      "name": "Dragon Greatclaw"
+    },
+    {
+      "name": "Staff of the Avatar"
+    },
+    {
+      "name": "Fallingstar Beast Jaw"
+    },
+    {
+      "name": "Ghiza's Wheel"
+    },
+    {
+      "name": "Giant-Crusher"
+    },
+    {
+      "name": "Golem's Halberd"
+    },
+    {
+      "name": "Troll's Hammer"
+    },
+    {
+      "name": "Rotten Staff"
+    },
+    {
+      "name": "Rotten Greataxe"
+    },
+    {
+      "name": "Onyx Lord's Greatsword"
+    },
+    {
+      "name": "Dismounter"
+    },
+    {
+      "name": "Bloodhound's Fang"
+    },
+    {
+      "name": "Magma Wyrm's Scalesword"
+    },
+    {
+      "name": "Zamor Curved Sword"
+    },
+    {
+      "name": "Omen Cleaver"
+    },
+    {
+      "name": "Monk's Flameblade"
+    },
+    {
+      "name": "Beastman's Cleaver"
+    },
+    {
+      "name": "Morgott's Cursed Sword"
+    },
+    {
+      "name": "Falchion"
+    },
+    {
+      "name": "Beastman's Curved Sword"
+    },
+    {
+      "name": "Shotel"
+    },
+    {
+      "name": "Shamshir"
+    },
+    {
+      "name": "Bandit's Curved Sword"
+    },
+    {
+      "name": "Magma Blade"
+    },
+    {
+      "name": "Flowing Curved Sword"
+    },
+    {
+      "name": "Wing of Astel"
+    },
+    {
+      "name": "Scavenger's Curved Sword"
+    },
+    {
+      "name": "Eclipse Shotel"
+    },
+    {
+      "name": "Serpent-God's Curved Sword"
+    },
+    {
+      "name": "Mantis Blade"
+    },
+    {
+      "name": "Scimitar"
+    },
+    {
+      "name": "Grossmesser"
+    },
+    {
+      "name": "Nox Flowing Sword"
+    },
+    {
+      "name": "Dagger"
+    },
+    {
+      "name": "Black Knife"
+    },
+    {
+      "name": "Parrying Dagger"
+    },
+    {
+      "name": "Misericorde"
+    },
+    {
+      "name": "Reduvia"
+    },
+    {
+      "name": "Crystal Knife"
+    },
+    {
+      "name": "Celebrant's Sickle"
+    },
+    {
+      "name": "Glintstone Kris"
+    },
+    {
+      "name": "Scorpion's Stinger"
+    },
+    {
+      "name": "Great Knife"
+    },
+    {
+      "name": "Wakizashi"
+    },
+    {
+      "name": "Cinquedea"
+    },
+    {
+      "name": "Ivory Sickle"
+    },
+    {
+      "name": "Bloodstained Dagger"
+    },
+    {
+      "name": "Erdsteel Dagger"
+    },
+    {
+      "name": "Blade of Calling"
+    },
+    {
+      "name": "Caestus"
+    },
+    {
+      "name": "Spiked Caestus"
+    },
+    {
+      "name": "Grafted Dragon"
+    },
+    {
+      "name": "Iron Ball"
+    },
+    {
+      "name": "Star Fist"
+    },
+    {
+      "name": "Katar"
+    },
+    {
+      "name": "Clinging Bone"
+    },
+    {
+      "name": "Veteran's Prosthesis"
+    },
+    {
+      "name": "Cipher Pata"
+    },
+    {
+      "name": "Nightrider Flail"
+    },
+    {
+      "name": "Flail"
+    },
+    {
+      "name": "Family Heads"
+    },
+    {
+      "name": "Bastard's Stars"
+    },
+    {
+      "name": "Chainlink Flail"
+    },
+    {
+      "name": "Greataxe"
+    },
+    {
+      "name": "Great Omenkiller Cleaver"
+    },
+    {
+      "name": "Crescent Moon Axe"
+    },
+    {
+      "name": "Axe of Godrick"
+    },
+    {
+      "name": "Longhaft Axe"
+    },
+    {
+      "name": "Rusted Anchor"
+    },
+    {
+      "name": "Executioner's Greataxe"
+    },
+    {
+      "name": "Winged Greathorn"
+    },
+    {
+      "name": "Butchering Knife"
+    },
+    {
+      "name": "Gargoyle's Great Axe"
+    },
+    {
+      "name": "Gargoyle's Black Axe"
+    },
+    {
+      "name": "Mohgwyn's Sacred Spear"
+    },
+    {
+      "name": "Siluria's Tree"
+    },
+    {
+      "name": "Serpent-Hunter"
+    },
+    {
+      "name": "Vyke's War Spear"
+    },
+    {
+      "name": "Lance"
+    },
+    {
+      "name": "Treespear"
+    },
+    {
+      "name": "Bastard Sword"
+    },
+    {
+      "name": "Forked Greatsword"
+    },
+    {
+      "name": "Iron Greatsword"
+    },
+    {
+      "name": "Lordsworn's Greatsword"
+    },
+    {
+      "name": "Knight's Greatsword"
+    },
+    {
+      "name": "Flamberge"
+    },
+    {
+      "name": "Ordovis's Greatsword"
+    },
+    {
+      "name": "Alabaster Lord's Sword"
+    },
+    {
+      "name": "Banished Knight's Greatsword"
+    },
+    {
+      "name": "Dark Moon Greatsword"
+    },
+    {
+      "name": "Sacred Relic Sword"
+    },
+    {
+      "name": "Helphen's Steeple"
+    },
+    {
+      "name": "Blasphemous Blade"
+    },
+    {
+      "name": "Marais Executioner's Sword"
+    },
+    {
+      "name": "Sword of Milos"
+    },
+    {
+      "name": "Golden Order Greatsword"
+    },
+    {
+      "name": "Claymore"
+    },
+    {
+      "name": "Gargoyle's Greatsword"
+    },
+    {
+      "name": "Death's Poker"
+    },
+    {
+      "name": "Gargoyle's Blackblade"
+    },
+    {
+      "name": "Inseparable Sword"
+    },
+    {
+      "name": "Halberd"
+    },
+    {
+      "name": "Pest's Glaive"
+    },
+    {
+      "name": "Lucerne"
+    },
+    {
+      "name": "Banished Knight's Halberd"
+    },
+    {
+      "name": "Commander's Standard"
+    },
+    {
+      "name": "Nightrider Glaive"
+    },
+    {
+      "name": "Ripple Crescent Halberd"
+    },
+    {
+      "name": "Vulgar Militia Saw"
+    },
+    {
+      "name": "Golden Halberd"
+    },
+    {
+      "name": "Glaive"
+    },
+    {
+      "name": "Loretta's War Sickle"
+    },
+    {
+      "name": "Guardian's Swordspear"
+    },
+    {
+      "name": "Vulgar Militia Shotel"
+    },
+    {
+      "name": "Dragon Halberd"
+    },
+    {
+      "name": "Gargoyle's Halberd"
+    },
+    {
+      "name": "Gargoyle's Black Halberd"
+    },
+    {
+      "name": "Mace"
+    },
+    {
+      "name": "Club"
+    },
+    {
+      "name": "Curved Club"
+    },
+    {
+      "name": "Warpick"
+    },
+    {
+      "name": "Morning Star"
+    },
+    {
+      "name": "Varré's Bouquet"
+    },
+    {
+      "name": "Spiked Club"
+    },
+    {
+      "name": "Hammer"
+    },
+    {
+      "name": "Monk's Flamemace"
+    },
+    {
+      "name": "Envoy's Horn"
+    },
+    {
+      "name": "Scepter of the All-Knowing"
+    },
+    {
+      "name": "Nox Flowing Hammer"
+    },
+    {
+      "name": "Ringed Finger"
+    },
+    {
+      "name": "Stone Club"
+    },
+    {
+      "name": "Marika's Hammer"
+    },
+    {
+      "name": "Bloody Helice"
+    },
+    {
+      "name": "Godskin Stitcher"
+    },
+    {
+      "name": "Great Epee"
+    },
+    {
+      "name": "Dragon King's Cragblade"
+    },
+    {
+      "name": "Uchigatana"
+    },
+    {
+      "name": "Nagakiba"
+    },
+    {
+      "name": "Hand of Malenia"
+    },
+    {
+      "name": "Meteoric Ore Blade"
+    },
+    {
+      "name": "Rivers of Blood"
+    },
+    {
+      "name": "Moonveil"
+    },
+    {
+      "name": "Dragonscale Blade"
+    },
+    {
+      "name": "Serpentbone Blade"
+    },
+    {
+      "name": "Scythe"
+    },
+    {
+      "name": "Grave Scythe"
+    },
+    {
+      "name": "Halo Scythe"
+    },
+    {
+      "name": "Winged Scythe"
+    },
+    {
+      "name": "Short Spear"
+    },
+    {
+      "name": "Spear"
+    },
+    {
+      "name": "Crystal Spear"
+    },
+    {
+      "name": "Clayman's Harpoon"
+    },
+    {
+      "name": "Cleanrot Spear"
+    },
+    {
+      "name": "Partisan"
+    },
+    {
+      "name": "Celebrant's Rib-Rake"
+    },
+    {
+      "name": "Pike"
+    },
+    {
+      "name": "Torchpole"
+    },
+    {
+      "name": "Bolt of Gransax"
+    },
+    {
+      "name": "Cross-Naginata"
+    },
+    {
+      "name": "Death Ritual Spear"
+    },
+    {
+      "name": "Inquisitor's Girandole"
+    },
+    {
+      "name": "Spiked Spear"
+    },
+    {
+      "name": "Iron Spear"
+    },
+    {
+      "name": "Rotten Crystal Spear"
+    },
+    {
+      "name": "Winged Spear"
+    },
+    {
+      "name": "Longsword"
+    },
+    {
+      "name": "Short Sword"
+    },
+    {
+      "name": "Broadsword"
+    },
+    {
+      "name": "Lordsworn's Straight Sword"
+    },
+    {
+      "name": "Weathered Straight Sword"
+    },
+    {
+      "name": "Ornamental Straight Sword"
+    },
+    {
+      "name": "Golden Epitaph"
+    },
+    {
+      "name": "Coded Sword"
+    },
+    {
+      "name": "Sword of Night and Flame"
+    },
+    {
+      "name": "Crystal Sword"
+    },
+    {
+      "name": "Carian Knight's Sword"
+    },
+    {
+      "name": "Sword of St. Trina"
+    },
+    {
+      "name": "Miquellan Knight's Sword"
+    },
+    {
+      "name": "Cane Sword"
+    },
+    {
+      "name": "Regalia of Eochaid"
+    },
+    {
+      "name": "Noble's Slender Sword"
+    },
+    {
+      "name": "Warhawk's Talon"
+    },
+    {
+      "name": "Lazuli Glintstone Sword"
+    },
+    {
+      "name": "Rotten Crystal Sword"
+    },
+    {
+      "name": "Estoc"
+    },
+    {
+      "name": "Cleanrot Knight's Sword"
+    },
+    {
+      "name": "Rapier"
+    },
+    {
+      "name": "Rogier's Rapier"
+    },
+    {
+      "name": "Antspur Rapier"
+    },
+    {
+      "name": "Frozen Needle"
+    },
+    {
+      "name": "Noble's Estoc"
+    },
+    {
+      "name": "Twinblade"
+    },
+    {
+      "name": "Godskin Peeler"
+    },
+    {
+      "name": "Twinned Knight Swords"
+    },
+    {
+      "name": "Eleonora's Poleblade"
+    },
+    {
+      "name": "Gargoyle's Twinblade"
+    },
+    {
+      "name": "Gargoyle's Black Blades"
+    },
+    {
+      "name": "Large Club"
+    },
+    {
+      "name": "Greathorn Hammer"
+    },
+    {
+      "name": "Battle Hammer"
+    },
+    {
+      "name": "Great Mace"
+    },
+    {
+      "name": "Curved Great Club"
+    },
+    {
+      "name": "Celebrant's Skull"
+    },
+    {
+      "name": "Pickaxe"
+    },
+    {
+      "name": "Beastclaw Greathammer"
+    },
+    {
+      "name": "Envoy's Long Horn"
+    },
+    {
+      "name": "Cranial Vessel Candlestand"
+    },
+    {
+      "name": "Great Stars"
+    },
+    {
+      "name": "Brick Hammer"
+    },
+    {
+      "name": "Devourer's Scepter"
+    },
+    {
+      "name": "Rotten Battle Hammer"
+    },
+    {
+      "name": "Whip"
+    },
+    {
+      "name": "Thorned Whip"
+    },
+    {
+      "name": "Magma Whip Candlestick"
+    },
+    {
+      "name": "Hoslow's Petal Whip"
+    },
+    {
+      "name": "Giant's Red Braid"
+    },
+    {
+      "name": "Urumi"
+    }
+  ]
+}
