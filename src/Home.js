@@ -70,7 +70,20 @@ const Item = ({ type }) => {
   return (
     <div className="item-block">
       {loading && <Loader />}
-      {!loading && item && <div>{item?.name}</div>}
+      {!loading && item && (
+        <div>
+          {item?.image ? (
+            <img
+              src={item.image}
+              className="item-block-image"
+              alt={item?.name}
+            />
+          ) : null}
+          <div>
+            <a href={item?.wiki}>{item?.name}</a>
+          </div>
+        </div>
+      )}
     </div>
   );
 };

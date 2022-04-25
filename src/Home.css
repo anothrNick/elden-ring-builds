@@ -35,7 +35,7 @@
 
 .items-list .items-type .items-result .item-block {
   width: 164px;
-  height: 164px;
+  min-height: 164px;
   background-color: rgba(255, 255, 255, 0.1);
   border-radius: 2px;
   /* border: 2px solid #5f43b2; */
@@ -46,5 +46,16 @@
   align-items: center;
   flex-wrap: wrap;
   text-align: center;
-  padding: 3px;
+  padding: 5px 5px 8px 5px;
+}
+
+.items-list .items-type .items-result .item-block .item-block-image {
+  width: 110px;
+  height: 110px;
+}
+.items-list .items-type .items-result .item-block a {
+  color: #efefef;
+  text-decoration: none;
+  border-bottom: 1px dashed rgba(255, 255, 255, 0.2);
+  margin-bottom: 3px;
 }
