@@ -6,13 +6,32 @@
   color: #efefef;
 }
 
+.content .wrapper {
+  padding: 20px;
+}
+
+.options {
+  display: flex;
+  justify-content: space-between;
+}
+.options button {
+  background-color: transparent;
+  border: 2px solid #5f43b2;
+  color: #5f43b2;
+  border-radius: 3px;
+  padding: 5px 20px;
+  font-size: 20px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
 .items-list {
   max-width: 100%;
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
   gap: 30px;
-  padding: 20px;
+  padding-top: 20px;
 }
 
 .items-list .items-type {
