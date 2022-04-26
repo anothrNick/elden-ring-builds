@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/elden-ring-builds/static/css/main.06d5d680.css",
-    "main.js": "/elden-ring-builds/static/js/main.5496e677.js",
+    "main.css": "/elden-ring-builds/static/css/main.ad4d5f13.css",
+    "main.js": "/elden-ring-builds/static/js/main.93a1dc21.js",
     "index.html": "/elden-ring-builds/index.html",
-    "main.06d5d680.css.map": "/elden-ring-builds/static/css/main.06d5d680.css.map",
-    "main.5496e677.js.map": "/elden-ring-builds/static/js/main.5496e677.js.map"
+    "main.ad4d5f13.css.map": "/elden-ring-builds/static/css/main.ad4d5f13.css.map",
+    "main.93a1dc21.js.map": "/elden-ring-builds/static/js/main.93a1dc21.js.map"
   },
   "entrypoints": [
-    "static/css/main.06d5d680.css",
-    "static/js/main.5496e677.js"
+    "static/css/main.ad4d5f13.css",
+    "static/js/main.93a1dc21.js"
   ]
 }
